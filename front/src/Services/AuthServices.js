@@ -1,6 +1,6 @@
 import { json } from "react-router-dom";
 
-const API_AUTH_URL="http://localhost:8099/apiauth/authenticate";
+const API_AUTH_URL="http://localhost:8080/apiauth/authenticate";
 
 class AuthService
 {
